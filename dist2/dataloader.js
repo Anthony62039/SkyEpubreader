@@ -125,15 +125,14 @@ function addItemsToDisplayMusic(items, inc) {
     //Play and Pause
     function play() {
       // start music
-      // console.log(music.source.src);
-      window.open("spreads.html?epub="+music.currentSrc);
-      if(previosueMusic !== music && previosueMusic !== null){
-        previosueMusic.pause();
-        previosueButton.className = 'pButton';
-        previosueButton.className = 'pButton fa fa-play';
-      }else {
+      window.open("spreads.html");
+      // if(previosueMusic !== music && previosueMusic !== null){
+      //   previosueMusic.pause();
+      //   previosueButton.className = 'pButton';
+      //   previosueButton.className = 'pButton fa fa-play';
+      // }else {
       
-      }
+      // }
 
       if (music.paused) {        
         music.play();

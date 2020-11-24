@@ -1,7 +1,7 @@
-import './images/epub.png';
-import './images/epub.png';
-import './images/epub.png';
-import './images/epub.png';
+import './images/skynet-music.png';
+import './images/skynet_music_logo_sm.png';
+import './images/skynet_music512.png';
+import './images/skynet_music192.png';
 import './images/maskable_icon.png';
 import './stlye/main.css';
 import '../manifest.json';

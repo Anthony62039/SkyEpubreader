@@ -1,23 +1,23 @@
 {
 	"name": "Skynet Music",
-	"short_name": "Skynet epub reader",
+	"short_name": "Skynet Music",
 	"icons":[
 		{
-			"src":"images/epub.png",
+			"src":"images/skynet_music_logo_sm.png",
 			"type": "image/png",
 			"sizes":"144x144"
 		},
 		{
-			"src":"images/epub.png",
+			"src":"images/skynet_music_logo_sm.png",
 			"type": "image/png",
 			"sizes":"144x144"
 		},
 		{
-			"src":"images/epub.png",
+			"src":"images/skynet_music512.png",
 			"type": "image/png",
 			"sizes":"512x512"
 		},{
-			"src":"images/epub.png",
+			"src":"images/skynet_music192.png",
 			"type": "image/png",
 			"sizes":"192x192"
 		},{
@@ -31,7 +31,7 @@
 	"background_color": "#ffffff",
 	"display": "standalone",
 	"orientation": "portrait",
-	"scope": "/skynet-epub",
-	"start_url": "/skynet-epub"
+	"scope": "/skynet-music",
+	"start_url": "/skynet-music"
   }
   

@@ -62,6 +62,10 @@ module.exports = {
       patterns: [
         { from: 'manifest.json', to: '' },
         { from: 'src/sw.js', to: '' },
+        { from: 'src/spreads.html', to: '' },
+        { from: 'src/epub.min.js', to: '' },
+        { from: 'src/ajax-loader.gif', to: '' },
+        { from: 'src/stlye/examples.css', to: '' },
       ],
     }),
   ],

@@ -1,5 +1,5 @@
 {
-  "name": "skynetdemo",
+  "name": "sketnetepubreader",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap-icons": "^1.1.0",
-    "skynet-js": "^2.4.0"
+    "skynet-js": "^2.7.0"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^6.3.0",

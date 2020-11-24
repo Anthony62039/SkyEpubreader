@@ -6,7 +6,7 @@ const RUNTIME = 'runtime';
 var urlsToCache = [ 
   '/',
   // '/dist/', 
-  '/hns/naywmith/',
+  '/skynet-music',
   './index.html',
   './main.css',
   './main.js',

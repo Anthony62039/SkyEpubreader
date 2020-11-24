@@ -37,7 +37,7 @@ $('#uplaod-btn').click(function () {
               title: txtSongTitle,
               artist: txtArtist,
               url: 'https://siasky.net/' + siaId[1],
-              image: './images/epub.png',
+              image: './images/skynet-music.png',
             },
           ];
           dataloader.setItems(val);
